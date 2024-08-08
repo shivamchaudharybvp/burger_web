@@ -1,0 +1,158 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "We server Best food with best Quality." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "if Quality is best then how could you think about taste." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "give your fastest delivery like porsche without break." 
+            }
+        ],
+        "Burgers": [
+            {
+                "id": 1,
+                "image": "./burger1.jpg",
+                "title": "Veg Simpe Burger",
+                "category": "Burger"
+            },
+            {
+                "id": 2,
+                "image": "./burger2.png",
+                "title": "Double cheese",
+                "category": "Burger"
+            },
+            {
+                "id": 3,
+                "image": "./burger3.png",
+                "title": "Triple Cheese",
+                "category": "Burger"
+            },
+            {
+                "id": 4,
+                "image": "./burger4.png",
+                "title": "Chicken spicy",
+                "category": "Burger"
+            },
+            {
+                "id": 5,
+                "image": "./burger5.png",
+                "title": "Maxico spicy",
+                "category": "Burger"
+            }
+            
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "chi.jpg",
+                "name": "JOHN MICHEAL",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./CHIEF2.png",
+                "name": "SURYA PRATAP",
+                "designation": "BROWINE EXPERT"
+            },
+            {
+                "id": 3,
+                "image": "./CHIEF3.png",
+                "name": "HIMAYA KINCHI",
+                "designation": "FRIES EXPERT"
+            },
+            {
+                "id": 3,
+                "image": "wai.jpg",
+                "name": "king KINCHI",
+                "designation": "SERVICE EXPERT"
+            }
+            
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "GOOD FOOD",
+                "rating": 4,
+                "userName": "GULSAN"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "BEST FOOD WITH BEST SERVICE",
+                "rating": 4.5,
+                "userName": "SHIVANGI"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Free mein khane ko milaa owner ki traf se",
+                "rating": 5,
+                "userName": "AMAN PRAKASH"
+            }
+        ],
+        "whoweare": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
